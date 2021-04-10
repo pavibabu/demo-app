@@ -3,7 +3,7 @@
 This demo app shows a simple user profile app set up using 
 - index.html with pure js and css styles
 - nodejs backend with express module
-- mongodb for data storage
+- mongodb for data storage.
 
 All components are docker-based
 
@@ -34,7 +34,7 @@ Step 5: create `user-account` _db_ and `users` _collection_ in mongo-express
 Step 6: Start your nodejs application locally - go to `app` directory of project 
 
     npm install 
-    node server.js
+    node server.js.
     
 Step 7: Access you nodejs application UI from browser
 
